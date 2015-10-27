@@ -1,3 +1,4 @@
 print("Kakie dela")
 pring("go in zhopa")
 print("Fuck nigga")
+print("saipal")
