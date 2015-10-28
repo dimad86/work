@@ -1,2 +1,5 @@
-print("go nahui")
-print("goodbye")
+print("go nahui;")
+print("goodbye;")
+;
+;
+;
